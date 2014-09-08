@@ -1,12 +1,11 @@
 def hello():
     """Says hi."""
 <<<<<<< HEAD
-    print "hi."
-    pass
+    print "hi!"
 =======
-    print "hi!!"
-
+    print "hi!!!"
 >>>>>>> add-excitement
+
 
 if __name__ == "__main__":
     print hello()
